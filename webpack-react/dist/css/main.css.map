@@ -1,0 +1,1 @@
+{"version":3,"file":"css/main.css","mappings":"AAAA;EACI;AACJ;AACA;EACI;AACJ;AACA;EACI;AACJ","sources":["webpack://webpack-start/./src/index.less"],"sourcesContent":[".color{\n    color: red;\n}\n::-moz-placeholder {\n    color: gray;\n  }\n::placeholder {\n    color: gray;\n  }"],"names":[],"sourceRoot":""}

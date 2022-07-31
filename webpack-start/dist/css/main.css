@@ -1,0 +1,10 @@
+.color {
+  color: red;
+}
+::-moz-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
+}
+
